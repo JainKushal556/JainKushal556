@@ -8,14 +8,12 @@
 <!-- Status & Quick Contact -->
 <p align="center">
   <a href="mailto:jainkushal556@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jainkushal556%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/JainKushal556?tab=followers">
-    <img src="https://img.shields.io/github/followers/JainKushal556?label=Followers&style=for-the-badge&logo=github&color=161b22" alt="Followers" />
+    <img src="https://img.shields.io/badge/Get_In_Touch-jainkushal556%40gmail.com-00f7ff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Kushal" />
   </a>
   <a href="https://github.com/JainKushal556">
-    <img src="https://komarev.com/ghpvc/?username=JainKushal556&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS&cache=1" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-JainKushal556-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Full_Stack-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="Focus Area" />
 </p>
 
 </div>
