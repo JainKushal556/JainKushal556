@@ -1,100 +1,136 @@
 <div align="center">
 
-# Hi there, I'm Kushal Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+<!-- Waving Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=180&section=header&text=Hi%20there,%20I'm%20Kushal%20Jain%20👋&fontSize=38&fontAlignY=36&animation=fadeIn" width="100%" />
 
-### Passionate developer building awesome things.
+<!-- Typing SVG Animation -->
+<a href="https://github.com/JainKushal556">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=620&lines=Full+Stack+%26+Software+Engineer;Building+AI-Powered+Apps+%26+RAG+Pipelines;FastAPI+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+.NET;Turning+Complex+Problems+Into+Clean+Code+🚀" alt="Typing SVG" />
+</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/JainKushal556?label=Follow&style=social)](https://github.com/JainKushal556) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=JainKushal556&color=58a6ff&style=flat-square)
+<p align="center">
+  <a href="mailto:jainkushal556@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jainkushal556%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JainKushal556">
+    <img src="https://img.shields.io/github/followers/JainKushal556?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JainKushal556&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 About Me
 
-- 🔭 I have **9** public repositories on GitHub
-- ⭐ **2** total stars earned across my projects
-- 👥 **3** followers · **3** following
+- 💡 **Passion:** A passionate software developer and builder focused on creating end-to-end applications powered by modern full-stack technologies and AI workflows.
+- 🤖 **Current Focus:** Deep diving into **RAG (Retrieval-Augmented Generation)**, LLM integrations (Gemini), and high-performance backend systems with **FastAPI** & **PostgreSQL**.
+- 🛠️ **Full-Cycle Development:** Experienced across the stack—from responsive frontend UI to robust REST APIs, desktop software (.NET/C#), and system-level applications (C/C++).
+- ⚡ **Mindset:** Constantly learning, experimenting with AI tools, and turning ideas into usable software products.
 
 ---
 
-## 🛠️ Tech Stack
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JainKushal556&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Languages
-![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Frameworks & Tools
-![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+#### 🌐 Frameworks & Full Stack Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-</div>
+#### 🗄️ Databases & Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
----
-
-## 🚀 Top Projects
-
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [**ATM-MACHINE**](https://github.com/JainKushal556/ATM-MACHINE) | A C++ ATM simulation project demonstrating banking operations, balance inquiry, cash withdrawal, and basic transaction handling. | ⭐ 1 | C++ |
-| [**PersonalExpenseCreditTracker**](https://github.com/JainKushal556/PersonalExpenseCreditTracker) | A C# WinForms desktop application for managing personal expenses, credits, borrowings, and financial transactions using SQL Server. | ⭐ 1 | C# |
-| [**JainKushal556**](https://github.com/JainKushal556/JainKushal556) | GitHub profile README showcasing my projects, technical skills, development journey, and open-source contributions. | ⭐ 0 | — |
-| [**Exam-Intelligence-Assistant**](https://github.com/JainKushal556/Exam-Intelligence-Assistant) | AI-powered exam preparation assistant for understanding question papers, organizing study materials, and finding relevant answers. | ⭐ 0 | Python |
-| [**Android-Development-Internship-GIM**](https://github.com/JainKushal556/Android-Development-Internship-GIM) | — | ⭐ 0 | Kotlin |
-| [**Gym-Website**](https://github.com/JainKushal556/Gym-Website) | — | ⭐ 0 | CSS |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://img.shields.io/badge/Total_Stars-2-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Repositories-9-3fb950?style=for-the-badge&logo=bookmarks&logoColor=white) ![](https://img.shields.io/badge/Followers-3-bc8cff?style=for-the-badge&logo=people&logoColor=white) ![](https://img.shields.io/badge/Forks-1-d29922?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 💬 Top Languages
-
-<div align="center">
-
-![](https://img.shields.io/badge/JavaScript-61.6%-f1e05a?style=for-the-badge) ![](https://img.shields.io/badge/Python-21.8%-3572A5?style=for-the-badge) ![](https://img.shields.io/badge/C#-13.0%-178600?style=for-the-badge) ![](https://img.shields.io/badge/Kotlin-1.9%-A97BFF?style=for-the-badge) ![](https://img.shields.io/badge/CSS-1.7%-563d7c?style=for-the-badge) ![](https://img.shields.io/badge/C++-0.0%-f34b7d?style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=JainKushal556&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+#### ⚙️ Developer Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🌟 Featured Highlights
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🧠 **Exam Intelligence Assistant** | AI-powered exam study assistant using RAG and LLM for smart document understanding. | Python, LLM, RAG | [View](https://github.com/JainKushal556/Exam-Intelligence-Assistant) |
+| 💬 **Gemini Context-Aware Chatbot** | Contextual chatbot powered by Google Gemini API & FastAPI backend. | Python, Gemini, FastAPI | [View](https://github.com/JainKushal556/gemini-context-aware-chatbot) |
+| ⚡ **FastAPI PostgreSQL REST API** | Robust full-stack REST API with relational database and JWT security. | FastAPI, PostgreSQL | [View](https://github.com/JainKushal556/fastapi-postgresql-todo-api) |
+| 💳 **Personal Expense Tracker** | Desktop financial manager for credits, borrowings, and expenses with SQL Server. | C#, WinForms, SQL | [View](https://github.com/JainKushal556/PersonalExpenseCreditTracker) |
+| 🏧 **ATM Simulation System** | C++ console simulation modeling core banking and transaction systems with OOP. | C++, OOP | [View](https://github.com/JainKushal556/ATM-MACHINE) |
+
+---
+
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-![](https://img.shields.io/badge/⭐_Star_Gazer-2_Stars-C0C0C0?style=for-the-badge) ![](https://img.shields.io/badge/📦_Creator-9_Repos-4169E1?style=for-the-badge) ![](https://img.shields.io/badge/👥_Friendly_Face-3_Followers-C0C0C0?style=for-the-badge) ![](https://img.shields.io/badge/🔤_Polyglot-6_Languages-0077B6?style=for-the-badge) ![](https://img.shields.io/badge/🍴_Forked-1_Forks-C0C0C0?style=for-the-badge) ![](https://img.shields.io/badge/📅_Dedicated-Since_2024-20B2AA?style=for-the-badge)
+<!-- GitHub Stats & Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JainKushal556&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00f7ff&text_color=c9d1d9" alt="Kushal's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainKushal556&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="45%" />
+</p>
+
+<!-- Commit Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainKushal556&theme=radical&hide_border=true&background=0d1117" alt="Streak Stats" width="95%" />
+</p>
+
+<!-- Activity Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JainKushal556&theme=github-compact&bg_color=0d1117&color=00f7ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph" width="95%" />
+</p>
 
 </div>
 
 ---
 
-## 📫 Connect with Me
+### 📬 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:jainkushal556@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/JainKushal556">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JainKushal556)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star my repos if you find them useful! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=80&section=footer" width="100%" />
-
-</div>
+<!-- Footer Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=90&section=footer" width="100%" />
